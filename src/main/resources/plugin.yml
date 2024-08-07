@@ -1,0 +1,4 @@
+name: SendCLICommands
+version: '1.0-SNAPSHOT'
+main: org.example.test.sendCLICommands.SendCLICommands
+api-version: '1.20'
